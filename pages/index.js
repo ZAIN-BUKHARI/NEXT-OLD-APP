@@ -20,12 +20,12 @@ const index = () => {
     <div className="flex flex-col text-center w-full mb-12"> 
       {/* <p className="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify.</p> */}
       <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">Raffay: Chal mera puttar chittu kr </h1>
-    <div className='w-36 mx-[430px] bg-slate-400 h-24 rounded-full text-center flex justify-center ' ><img className='rounded-full' src={img} /></div>
+    <div className='w-36 mx-[100px] md:mx-[430px] bg-slate-400 h-24 rounded-full text-center flex justify-center ' ><img className='rounded-full' src={img} /></div>
     </div> 
 
     <div className="lg:w-1/2 md:w-2/3 mx-auto ">
       <div className="flex flex-wrap -m-2">
-      <div className='mx-28' >
+      <div className=' mx-10 md:mx-28' >
         <div className="p-2 w-1/2">
           <div className="relative">
             <label for="name" className="leading-7 text-sm text-gray-600">Email</label>
